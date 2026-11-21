@@ -2,3 +2,9 @@ p{
     color: red;
     background-color: whitesmoke;
 }
+p{
+    padding: 0%;
+    color: blue;
+    margin: 20px right;
+    justify-content: center;
+}
